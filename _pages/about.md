@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a visiting Ph.D. Fellow at UNU-WIDER and a doctoral student in Economics at the Indian Institute of Management, Kozhikode. My work focuses on identity economics, social mobility, intersectionality, and gender. I work extensively on the effect of the caste system and patriarchy on economic outcomes in India.
+I'm a visiting Ph.D. Fellow at UNU-WIDER and a doctoral student in Economics at the Indian Institute of Management, Kozhikode. Broadly, my area of research is Development Economics. My work focuses on identity, intersectionality and social mobility. I work extensively on the effect of caste, gender and religion on economic outcomes in the Indian subcontinent.
