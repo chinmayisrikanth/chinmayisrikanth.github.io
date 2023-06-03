@@ -44,7 +44,7 @@ Conferences
 * ##### December, 2015
    * _Conference on Women Empowerment in the Knowledge Era (Presenter) sponsored by the Indian Council for Social Science Research (ICSSR)_ 
 
-Workshop
+Workshops
 ============
 * ##### May, 2023
    * _Workshop on War and Reconstruction in Ukraine (Attendee), UNU-WIDER, Helsinki_ 
