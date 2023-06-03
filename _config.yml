@@ -29,6 +29,20 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
+    colors:
+  primary: '#F5F5F5'
+  primary_text: '#FFE082'
+  background: '#E0E0E0'
+  background_2: '#E0E0E0'
+  background_3: '#E0E0E0'
+  text: '#0d042b'
+  text_2: '#3b364c'
+  fonts:
+  google_fonts: 'https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap'
+  heading: 'DM Sans'
+  base: 'DM Sans'
+  monospace: 'Fira Mono'
+  logo: 'DM Sans'
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
